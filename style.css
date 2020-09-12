@@ -1,0 +1,29 @@
+h1 {
+color: black;
+}
+h2{
+color: blue;
+}
+a {
+color: purple;
+}
+p {
+color: black;
+}
+a:hover { 
+color: purple;
+}
+a:visited { 
+color: black;
+}
+a:link { 
+color: red;
+}
+a​:active { 
+color: blue;
+}
+div {
+  position: absolute;
+  bottom: 1px;
+  left: 16px;
+}
